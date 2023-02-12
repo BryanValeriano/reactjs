@@ -1,6 +1,6 @@
 [submodule "desafio01"]
-	path = desafio01
+	path = 2022/desafio01
 	url = git@github.com:BryanValeriano/desafio01_reactjsIgnite.git
 [submodule "desafio02"]
-	path = desafio02
+	path = 2022/desafio02
 	url = git@github.com:BryanValeriano/desafio02_reactjsIgnite.git
